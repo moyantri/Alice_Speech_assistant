@@ -6,7 +6,11 @@ we are using Female voice for all text to speech.sapi5 is Microsoft speech appli
 Dependencies
 
 pip install speechrecognition
+
 pip install pyttsx3
+
 pip install playsound
+
 pip install PyObjC
+
 pip install PyAudio
